@@ -6,6 +6,6 @@ spring:
     password: root
   jpa:
     hibernate.ddl-auto: update
-      properties:
+    properties:
       hibernate:
-          dialect: org.hibernate.dialect.MySQLDialect
+        dialect: org.hibernate.dialect.MySQLDialect
